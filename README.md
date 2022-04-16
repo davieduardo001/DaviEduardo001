@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello! I'm Davi Eduardo! You can call me Eduardo!
 
-<!--
-**davieduardo001/DaviEduardo001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+- ⌛ Studing JS
+- 🎥 Some projects in C#
+- 🐧 Linux user :D
+- 📱 Also have knowledge in Kotlin
+- 📳 Objective: be a mobile dev
+##
 
-Here are some ideas to get you started:
+<div>
+    <a href="https://github/davieduardo001"></a>
+    <img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=davieduardo001&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline-block;">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Davi.JS">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="Davi.Csharp">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Davi.Bootstrap">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Davi.HTML">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" alt="Davi.Kotlin">
+</div>
