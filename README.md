@@ -1,7 +1,7 @@
 ### Hello! I'm Davi Eduardo! You can call me Eduardo!
 
 ##
-- ⌛ Studing JS
+- ⌛ Studing React Native
 - 🎥 Some projects in C#
 - 🐧 Linux user :D
 - 📱 Also have knowledge in Kotlin
