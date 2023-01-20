@@ -1,10 +1,8 @@
 ### Hello! I'm Davi Eduardo! You can call me Eduardo!
 
 ##
+- Android Dev
 - 🐧 Linux user :D
-- Focused in Server Management
-- Learning cyber security
-- 📱 Also have knowledge in Kotlin (Android Dev. in the free time)
 ##
 
 <div style="display: inline-block;">
