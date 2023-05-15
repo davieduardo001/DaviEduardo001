@@ -1,12 +1,12 @@
 ### Hello! I'm Davi Eduardo! You can call me Eduardo!
 
 ##
-- Studing mainframe development
+- Studing cloud devops
 - Android Dev 
 - Reader of all the things u' can imagine
 - Linux user :D
 
-=> Studying technology in order to help more and more people is my objective. I started two years ago in the world of programming, with courses and projects for colleagues made with multiple tools (I don't think that a technology defines the person who uses it, but how the person uses it should define what the tool should do).
+=> Studying technology in order to help more and more people is my objective. I started some ago in the world of programming, with courses and projects for colleagues made with multiple tools (I don't think that a technology defines the person who uses it, but how the person uses it should define what the tool should do).
 
 ##
 
