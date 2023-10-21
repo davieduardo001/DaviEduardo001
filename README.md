@@ -16,6 +16,7 @@
 </p>
 
 ## Main skills:
+![go](https://img.shields.io/badge/go-0D1117?style=for-the-badge&logo=go&labelColor=0D1117)&nbsp;
 ![Csharp](https://img.shields.io/badge/-csharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -23,7 +24,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ## Studing at this moment
-*AWS* | *DevOps* | *Cloud computing*
+*Cloud native* | *DevOps* 
 
 ## About me
 * Studying technology in order to help more and more people is my objective. I started some ago in the world of programming, with courses and projects for colleagues made with multiple tools (I don't think that a technology defines the person who uses it, but how the person uses it should define what the tool should do).
