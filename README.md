@@ -16,11 +16,12 @@
 </p>
 
 ## Main skills:
+![typescript](https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![javascript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![go](https://img.shields.io/badge/go-0D1117?style=for-the-badge&logo=go&labelColor=0D1117)&nbsp;
 ![Csharp](https://img.shields.io/badge/-csharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ## Studing at this moment
