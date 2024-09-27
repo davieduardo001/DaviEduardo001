@@ -2,9 +2,9 @@
 
 ### About me
 
-*My name is Davi Eduardo, and I'm a developer :P*
+*My name is Davi Eduardo, and I'm a DevOps engineer and PO :P*
 
-🚀 Computer Science student with expertise in front-end, mobile/web development, Cloud Computing, and DevOps. Passionate problem solver with advanced technical skills.
+🚀 Computer Science student with expertise in DevOps, front-end, mobile/web development, Cloud Computing. Passionate problem solver with advanced technical skills.
 
 ### Skills
 🖥️ Languages: JS, C, Python, Shell Script, C#, C++, TS, GO.
