@@ -1,18 +1,76 @@
-## HELLO <3
+# Davi Eduardo
 
-### About me
 
-*My name is Davi Eduardo, and I'm a DevOps engineer and PO :P*
+<img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer+%26+Product+Owner;Passionate+about+Cloud+and+Automation;Building+scalable+solutions&center=true&size=27">
 
-🚀 Computer Science student with expertise in DevOps, front-end, mobile/web development, Cloud Computing. Passionate problem solver with advanced technical skills.
 
-### Skills
-🖥️ Languages: JS, C, Python, Shell Script, C#, C++, TS, GO.
+<p align="center">
+  <a href="https://www.linkedin.com/in/davi-eduardo-costa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://gitlab.com/davieduardocosta.miranda">
+    <img src="https://img.shields.io/badge/Gitlab-Profile-black?style=for-the-badge&logo=gitlab" alt="Gitlab">
+  </a>
+</p>
 
-🌐 Front-End Tech: HTML, CSS, JS, Bootstrap, React.
+## 🌟 About Me
 
-📱 Mobile Development: React Native, SQLite, Firebase.
+Hi there! 👋 I'm Davi Eduardo, a passionate DevOps Engineer and Product Owner with a strong background in Computer Science. I thrive on solving complex problems and building scalable solutions that make a real impact.
 
-☁️ Cloud Computing: Amazon Web Service (AWS), Google Cloud Platform (GCP).
+### 🎯 Tech Stack
 
-🛠️ DevOps: Docker, Kubernetes, ECS/EKS, github, gitlab.
+## 🚀 Tech Stack
+
+### Programming Languages
+- JavaScript/TypeScript
+- Python
+- C/C++
+- Go
+- Shell Scripting
+
+### Front-End Development
+- React.js
+- Next.js
+- HTML5/CSS3
+- Tailwind
+
+### Mobile Development
+- React Native
+- SQLite
+
+### Cloud & DevOps
+- Amazon Web Services
+- Firebase
+- Google Cloud Platform
+- Azure
+- Azure DevOps
+- Docker & Containerization
+- Kubernetes
+- CI/CD Pipelines
+
+## 🌱 Currently Learning
+
+- Advanced Kubernetes patterns
+- Serverless architectures
+- Cloud-native development
+- Advanced DevOps automation
+
+## 📫 How to Reach Me
+
+- Email: davieduardo001@gmail.com
+- LinkedIn: [Davi Eduardo](https://www.linkedin.com/in/davieduardo001/)
+- GitHub: [DaviEduardo001](https://github.com/DaviEduardo001)
+- Gitlab: [DaviEduardo001](https://gitlab.com/davieduardocosta.miranda)
+
+## ⚡ Fun Facts
+
+- I'm passionate about open-source contributions
+- I love learning new technologies
+- I enjoy mentoring and helping other developers
+
+## 🎯 Goals
+
+- Continue contributing to open-source projects
+- Expand my knowledge in cloud-native development
+- Help build scalable and maintainable systems
+- Mentor and inspire the next generation of developers
