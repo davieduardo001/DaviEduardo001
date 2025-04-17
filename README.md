@@ -1,8 +1,8 @@
 # Davi Eduardo
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&vCenter=true&width=435&lines=Devops;Cloud;Product+Owner;Python;Docker;Linux)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer+%26+Product+Owner;Passionate+about+Cloud+and+Automation;Building+scalable+solutions&center=true&size=27">
-
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davi-eduardo-costa/">
