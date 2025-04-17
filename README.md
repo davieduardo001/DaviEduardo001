@@ -30,10 +30,6 @@ Hi there! 👋 I'm Davi Eduardo, a passionate DevOps Engineer and Product Owner 
 - HTML5/CSS3
 - Tailwind
 
-### Mobile Development
-- React Native
-- SQLite
-
 ### Cloud & DevOps
 - Amazon Web Services
 - Firebase
