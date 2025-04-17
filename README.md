@@ -13,8 +13,6 @@
 
 Hi there! 👋 I'm Davi Eduardo, a passionate DevOps Engineer and Product Owner with a strong background in Computer Science. I thrive on solving complex problems and building scalable solutions that make a real impact.
 
-### 🎯 Tech Stack
-
 ## 🚀 Tech Stack
 
 ### Programming Languages
@@ -49,7 +47,7 @@ Hi there! 👋 I'm Davi Eduardo, a passionate DevOps Engineer and Product Owner 
 
 ## 📫 How to Reach Me
 
-- Email: davieduardo001@gmail.com
+- Email: davieduardocostadf@outlook.com
 - LinkedIn: [Davi Eduardo](https://www.linkedin.com/in/davieduardo001/)
 - GitHub: [DaviEduardo001](https://github.com/DaviEduardo001)
 - Gitlab: [DaviEduardo001](https://gitlab.com/davieduardocosta.miranda)
